@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://swethaogeti.github.io/csb-zsku6/static/css/main.dd1ee0fa.chunk.css",
+    "main.js": "https://swethaogeti.github.io/csb-zsku6/static/js/main.92d9bc28.chunk.js",
+    "main.js.map": "https://swethaogeti.github.io/csb-zsku6/static/js/main.92d9bc28.chunk.js.map",
+    "runtime-main.js": "https://swethaogeti.github.io/csb-zsku6/static/js/runtime-main.c59794a8.js",
+    "runtime-main.js.map": "https://swethaogeti.github.io/csb-zsku6/static/js/runtime-main.c59794a8.js.map",
+    "static/js/2.fcbb2c3d.chunk.js": "https://swethaogeti.github.io/csb-zsku6/static/js/2.fcbb2c3d.chunk.js",
+    "static/js/2.fcbb2c3d.chunk.js.map": "https://swethaogeti.github.io/csb-zsku6/static/js/2.fcbb2c3d.chunk.js.map",
+    "index.html": "https://swethaogeti.github.io/csb-zsku6/index.html",
+    "static/css/main.dd1ee0fa.chunk.css.map": "https://swethaogeti.github.io/csb-zsku6/static/css/main.dd1ee0fa.chunk.css.map",
+    "static/js/2.fcbb2c3d.chunk.js.LICENSE.txt": "https://swethaogeti.github.io/csb-zsku6/static/js/2.fcbb2c3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c59794a8.js",
+    "static/js/2.fcbb2c3d.chunk.js",
+    "static/css/main.dd1ee0fa.chunk.css",
+    "static/js/main.92d9bc28.chunk.js"
+  ]
+}
